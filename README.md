@@ -16,7 +16,7 @@ Estudante de **Desenvolvimento de Sistemas no SENAI** e concluindo o **2º ano d
 
 ---
 
-### 🚀 "Meu objetivo é aprender cada vez mais e me aprofundar em cada detalhe."
+### 🚀 Meu objetivo é aprender cada vez mais e me aprofundar em cada detalhe.
 
 ---
 
@@ -33,6 +33,8 @@ Estudante de **Desenvolvimento de Sistemas no SENAI** e concluindo o **2º ano d
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/GIT-E34C26?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="CMD" />
+  <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="CMD" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </div>
 
 ---
