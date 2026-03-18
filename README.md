@@ -34,15 +34,6 @@ Estudante de **Desenvolvimento de Sistemas no SENAI** e concluindo o **2º ano d
   <img src="https://img.shields.io/badge/GIT-E34C26?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="CMD" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-
-  ---
-
-  ### 📈 Estatísticas
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=claravitorialima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claravitorialima&layout=compact&langs_count=7&theme=dracula"/>
-</p>
 </div>
 
 ---
