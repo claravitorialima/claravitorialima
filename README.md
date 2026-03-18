@@ -1,7 +1,7 @@
 # Olá, eu sou a Clara Vitória de Lima! 👋
 
 ### 👩‍💻 Sobre Mim
-Estudante de **Desenvolvimento de Sistemas no SENAI/SESI**. Meu foco principal é construir uma base técnica e evoluir constantemente na área de tecnologia. 
+Estudante de **Desenvolvimento de Sistemas no SENAI** e concluindo o **2º ano do Ensino Médio no SESI**. Meu foco principal é construir uma base técnica e evoluir constantemente na área de tecnologia. 
 
 - **Em evolução:** Busco aprender cada vez mais e me aprofundar nos detalhes do desenvolvimento, estou dando meus primeiros passos no mundo da programação, focada em construir uma base!
 - **English Student:** Atualmente cursando inglês com o intuito de me conectar com o mundo e acessar documentações globais!
