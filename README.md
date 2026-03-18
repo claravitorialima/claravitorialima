@@ -1,4 +1,4 @@
-# Olá, eu sou a Clara Vitória de Lima! 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=180&section=header&text=Clara+Vitória&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 ### 👩‍💻 Sobre Mim
 Estudante de **Desenvolvimento de Sistemas no SENAI** e concluindo o **2º ano do Ensino Médio no SESI**. Meu foco principal é construir uma base técnica e evoluir constantemente na área de tecnologia. 
@@ -34,6 +34,8 @@ Estudante de **Desenvolvimento de Sistemas no SENAI** e concluindo o **2º ano d
   <img src="https://img.shields.io/badge/GIT-E34C26?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="CMD" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=150&section=footer"/>
 </div>
 
 ---
