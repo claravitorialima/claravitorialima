@@ -21,7 +21,7 @@ Estudante de **Desenvolvimento de Sistemas no SENAI** e concluindo o **2º ano d
 ---
 
 ### 📫 Vamos nos conectar? 
-- [LinkedIn](www.linkedin.com/in/clara-v-0068883b0)
+- [LinkedIn](https://www.linkedin.com/in/clara-v-0068883b0)
 - [E-mail](limaclarinha17@gmail.com)
 
 ---
